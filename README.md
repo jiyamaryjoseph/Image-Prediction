@@ -1,4 +1,4 @@
-# Datascience_project4
+#  Datascience_project :This is my stepping stone on the imgae prediction.
 this is my gurudekshuna for dhaval sir..
 
 IMAGE CLASSIFICATION:
