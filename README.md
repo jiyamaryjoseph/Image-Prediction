@@ -1,5 +1,5 @@
 #  Datascience_project :This is my stepping stone on the image prediction.
-credit : @codebasics
+Reference : @codebasics
 
 IMAGE CLASSIFICATION:
            
