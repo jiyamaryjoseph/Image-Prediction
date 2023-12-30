@@ -1,4 +1,4 @@
-#  Datascience_project :This is my stepping stone on the image prediction.
+#  Data Science Project: This marks my initial step into image prediction.
 Reference : @codebasics
 
 IMAGE CLASSIFICATION:
