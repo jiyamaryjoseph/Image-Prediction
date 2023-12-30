@@ -1,10 +1,14 @@
-#  Datascience_project :This is my stepping stone on the imgae prediction.
-this is my gurudekshuna for dhaval sir..
+#  Datascience_project :This is my stepping stone on the image prediction.
+credit : @codebasics
 
 IMAGE CLASSIFICATION:
            
-This is my first project done with the help of existing celebrities face recognition project.I am proudly saying that it help me to recollect all project parts such as client ,model and UI sides...I hope it will be my steping stone for the journey of datascience..
-                    
+
+I'm excited to showcase my image classification project, influenced by a celebrity face recognition project. It aided me in recalling all the project components, such as the client, model, and UI. This project marks the beginning of my data science journey, and I'm eager to see where it takes me next.                  
+
+
+![image](https://github.com/jiyamaryjoseph/Image-Prediction/assets/83010684/6ea792c5-7a24-4d7a-aab8-b9814ba6f088)
+
               
 ##               Model  
 consists of:
@@ -15,19 +19,19 @@ consists of:
                3. Nita Ambani
                4. Opera Winfrey
                5. Priyanka Chopra
- I collect all these  dataset images from google..
+ source: google image (webscrapping with the help of fatkun-batch)
               
 #####               :myrole_model_predic.ipynb
  This is the model for predicting the faces of my favourate rolemodels.After reading,changing to two diamention(i.e:from color to grey),detect the eyes and frontal face through cascadeclassifier.after detecting face and eyes,we cropped the image and make a folder in dataset and save.
       Then images go through wavelet transformation and combain the raw image and wavelet image  and keep it as X for training.And y is took as corresponding number of personality.. 
- On traing we took SVM for training by the method of gridsearching..we got 100% accuracy score.save this model as pickle file.
+ On traing we took SVM for training by the method of gridsearching..we got 98% accuracy score.save this model as pickle file.
  
 ##              Server
 consists of
 
-#####             :server.py
+####             :server.py
  This the server file for running the project..  Flask is a small and lightweight Python web framework that provides useful tools and features that make creating web applications in Python easier. It gives developers flexibility and is a more accessible framework for new developers since you can build a web application quickly using only a single Python file.
-#####             :utils.py
+####             :utils.py
 Whenever a common block of code needs to be used from multiple places, we can create utils class.Here we are doing classifying image..and loading artifacts..etc..     
 
 #####             : wavelet.py
