@@ -4,7 +4,7 @@ Reference : @codebasics
 IMAGE CLASSIFICATION:
            
 
-I'm excited to showcase my image classification project, influenced by a celebrity face recognition project. It aided me in recalling all the project components, such as the client, model, and UI. This project marks the beginning of my data science journey, and I'm eager to see where it takes me next.                  
+I'm excited to showcase my image classification project, influenced by a celebrity face recognition project. It aided me in recalling all the project components, such as the server, model, and UI. This project marks the beginning of my data science journey, and I'm eager to see where it takes me next.                  
 
 
 ![image](https://github.com/jiyamaryjoseph/Image-Prediction/assets/83010684/6ea792c5-7a24-4d7a-aab8-b9814ba6f088)
